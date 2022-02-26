@@ -23,15 +23,14 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Jenkins Assessment for DOE role</h2>
-			<h3>Sushmitha</h3>
+			<h3>CICD Assessment for DevOps Engineer role</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Jenkins Assessment</p>
+		<p>Technologies/Tools used: Github, Maven, Docker, DockerHub, AWS EC2, Jenkins</p>
 	</footer>
 </div>
 
