@@ -23,7 +23,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h3>CICD Assessment for DevOps Engineer role</h3>
+			<h2>CI/CD Pipeline</h2>
+			<h3>CI/CD Assessment for DevOps Engineer role</h3>
 		</div>	
 	</div>
 
