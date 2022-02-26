@@ -31,7 +31,7 @@
 
 	<hr>
 	<footer>
-		<p><b>Technologies/Tools used:<b> Github, Maven, Docker, DockerHub, AWS EC2, Jenkins</p>
+		<p><b>Technologies/Tools used:</b> Github, Maven, Docker, DockerHub, AWS EC2, Jenkins</p>
 	</footer>
 </div>
 
