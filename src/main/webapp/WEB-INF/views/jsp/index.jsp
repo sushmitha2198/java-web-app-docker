@@ -24,14 +24,14 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>CI/CD Pipeline</h2>
-			<h3>CI/CD Assessment for DevOps Engineer role</h3>
+			<h3>CI/CD Assessment for DevOps Engineer role - Greendeck</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>Technologies/Tools used: Github, Maven, Docker, DockerHub, AWS EC2, Jenkins</p>
+		<p><b>Technologies/Tools used:<b> Github, Maven, Docker, DockerHub, AWS EC2, Jenkins</p>
 	</footer>
 </div>
 
