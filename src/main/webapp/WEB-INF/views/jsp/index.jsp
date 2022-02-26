@@ -19,20 +19,6 @@
 	</div>
 </nav>
 
-<div class="jumbotron">
-	<div class="container">
-		<h1>${title}</h1>
-		<p>
-			<c:if test="${not empty msg}">
-				${msg}
-			</c:if>
-
-			<c:if test="${empty msg}">
-				Hey there!
-			</c:if>
-	</div>
-</div>
-
 <div class="container">
 
 	<div class="row">
